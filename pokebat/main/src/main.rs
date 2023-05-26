@@ -1,3 +1,5 @@
+use cli::args::Cli;
+
 fn main() {
-    println!("Hello, world!");
+    let args = Cli::get_args();
 }

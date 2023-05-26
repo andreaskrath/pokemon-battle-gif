@@ -1,9 +1,10 @@
 use crate::types::Type;
 
+#[derive(Debug)]
 pub struct Pokemon {
-    health: u32,
-    typ: Type,
-    damage: u32,
+    pub health: u32,
+    pub typ: Type,
+    pub damage: u32,
 }
 
 impl Pokemon {
