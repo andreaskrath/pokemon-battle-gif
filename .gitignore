@@ -15,3 +15,4 @@ Cargo.lock
 
 # Ignores the output folder used for outputting the gif images.
 output/
+*.gif
