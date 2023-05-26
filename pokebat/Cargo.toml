@@ -1,2 +1,2 @@
 [workspace]
-members = ["main", "pokemon", "cli"]
+members = ["main", "pokemon"]

@@ -1,3 +1,4 @@
 pub mod grid;
-pub mod pokemon;
+mod pokemon;
 mod types;
+pub mod args;
