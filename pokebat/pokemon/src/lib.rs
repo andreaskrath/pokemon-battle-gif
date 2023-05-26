@@ -1,3 +1,3 @@
-pub mod creature;
 pub mod grid;
+pub mod pokemon;
 mod types;
